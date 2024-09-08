@@ -36,7 +36,6 @@ The following sources of clinical text data are considered for this project:
 - **Radiology Reports**: Imaging results and corresponding diagnoses.
 - **Medical Journals & Databases**: Publicly available medical research and case studies.
 
-> **Note:** Some of these datasets may require ethical approval or adherence to regulations before access, while others are publicly available for research purposes.
 
 ## 💡 Applications
 - **Disease Diagnosis & Treatment Recommendations**: Automatically extract information about diseases and potential treatments.
@@ -48,9 +47,4 @@ The following sources of clinical text data are considered for this project:
 - **Natural Language Processing (NLP)**: Leveraging libraries like `spaCy`, `Scikit-learn`, and `Transformers` for medical text processing.
 - **Deep Learning**: Models like BERT (BioBERT, ClinicalBERT) tailored for medical text interpretation.
 - **Data Privacy**: Implementations to ensure compliance with HIPAA using privacy-preserving techniques.
-  
-## 📖 Getting Started
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-repo/medical-information-extraction.git
-   cd medical-information-extraction
+
